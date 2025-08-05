@@ -89,7 +89,8 @@ Top color choices include:
 ---
 🖼️ **Screenshots**
 
- [Nigerian Car_dashboard Screenshot](https://raw.githubusercontent.com/emwindosaMO/Nigeria-Car-Market-Dashboard/refs/heads/main/Nigeria%20Car%20Dashboard%20Screenshot.png)
+ [Nigerian_Car_dashboard_Screenshot] <img width="1036" height="539" alt="Nigeria Car Dashboard Screenshot" src="https://github.com/user-attachments/assets/ab5c9c1a-8b99-4e6c-a3f3-4f5d8f290aa7" />
+
 
 
 Car45 Data – Source of insights on pricing, mileage, and performance.
