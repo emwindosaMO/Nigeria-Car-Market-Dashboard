@@ -73,6 +73,8 @@ Top color choices include:
 🛠 **Tools & Skills Used**
 * Microsoft Excel
 
+* Power Query
+
 * Pivot Tables & Charts
 
 * Slicers & Timelines
@@ -81,17 +83,16 @@ Top color choices include:
 
 * Dashboard Design Principles
   
-Car45 Data – Source of insights on pricing, mileage, and performance.
-
 
 
 
 ---
 🖼️ **Screenshots**
 
- ![Nigerian Car_dashboard Screenshot]<img width="1036" height="539" alt="Nigeria Car Dashboard Screenshot" src="https://github.com/user-attachments/assets/b9d316e3-15d9-48c4-9692-dfd73890a041" />
+ [Nigerian Car_dashboard Screenshot](https://github.com/user-attachments/assets/b9d316e3-15d9-48c4-9692-dfd73890a041)
 
 
+Car45 Data – Source of insights on pricing, mileage, and performance.
 
 
 
